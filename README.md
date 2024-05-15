@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Loechner
-- 👀 I’m a researcher at University of Strasbourg (ICube Lab.) and INRIA (CAMUS team).
+- 👀 I’m a researcher at University of Strasbourg (ICube Lab.) and Inria CAMUS team.
 
 <!---
 vincentloechner/vincentloechner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
